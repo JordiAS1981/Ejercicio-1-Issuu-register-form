@@ -1,0 +1,11 @@
+.div_nav {
+    border-bottom: 3px solid rgb(233, 232, 232) ;
+}
+.div_nav--logo {
+    left: 100px;
+    width: 120px;
+    height: 40px;
+    display: flex;
+    position: relative;
+    text-align: center;
+}
